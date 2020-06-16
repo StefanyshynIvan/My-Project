@@ -41,6 +41,7 @@ let arr = [1, 2, 5, 3, 4],
 // }
 // sumArray(arr);
 
+//second variant
 
 // function totalArray(arr) {
 //     let result = 0;
@@ -67,6 +68,8 @@ let arr = [1, 2, 5, 3, 4],
 // }
 
 // maxNum(arr);
+
+//second variant
 
 // function maxNumInArray(arr){
 //     let max = arr[0];
